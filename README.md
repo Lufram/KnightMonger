@@ -1,7 +1,7 @@
 # KnightMonger
-# Unity platform 2D game 
+## Unity platform 2D game 
 
-# Requisitos 📋
+## Requisitos 📋
 
 Escena inicial de introducción al juego.
 
