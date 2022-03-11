@@ -34,7 +34,7 @@ Escena de juego:
 
 Unity
 
-## Restricciones ❗
+## Información del juego ❗
 
 ### HUD
 Al iniciar el juego el jugador tendrá 2 vidas disponibles indicadas como un corazón, también contará con un indicador de diamantes y otro de puntuación, estos estarán a 0 al principio de la partida.
